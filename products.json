@@ -1,0 +1,419 @@
+[
+    {
+        "id" : 1,
+        "productName" : "Apple fresh",
+        "productImg" : "img/apple1.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Apple",
+        "review":"4⭐ | 34"
+    },
+    {
+        "id" : 2,
+        "productName" : "Sweet Banana",
+        "productImg" : "img/banana.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Banana",
+        "review":"3.5⭐ | 34"
+    },
+    {
+        "id" : 3,
+        "productName" : "Fresh Papaya",
+        "productImg" : "img/papaya.webp",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Papaya",
+        "review":"4⭐ | 34"
+    },
+    {
+        "id" : 4,
+        "productName" : "Kasmiri Apple",
+        "productImg" : "img/apple2.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Apple",
+        "review":"5⭐ | 34"
+    },
+    {
+        "id" : 5,
+        "productName" : "Fresh Grapes",
+        "productImg" : "img/grapes.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Grapes",
+        "review":"4.5⭐ | 34"
+    },
+    {
+        "id" : 6,
+        "productName" : "Sweet Guava",
+        "productImg" : "img/guava.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Guava",
+        "review":"3.5⭐ | 34"
+    },
+    {
+        "id" : 7,
+        "productName" : "Fresh Licth",
+        "productImg" : "img/litchi.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Licth",
+        "review":"4.5⭐ | 34"
+    },
+    {
+        "id" : 8,
+        "productName" : "Dudai Date",
+        "productImg" : "img/date.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Date",
+        "review":"5.0⭐ | 34"
+    },
+    {
+        "id" : 9,
+        "productName" : "Yello Orange",
+        "productImg" : "img/orange2.webp",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Orange",
+        "review":"4⭐ | 34"
+    },
+    {
+        "id" : 10,
+        "productName" : "Apple fresh",
+        "productImg" : "img/apple3.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Apple",
+        "review":"3.5⭐ | 34"
+    },
+    {
+        "id" : 11,
+        "productName" : "Sweet Banana",
+        "productImg" : "img/banana1.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Banana",
+        "review":"4⭐ | 34"
+    },
+    {
+        "id" : 12,
+        "productName" : "Apple fresh",
+        "productImg" : "img/apple1.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Apple",
+        "review":"5⭐ | 34"
+    },
+    {
+        "id" : 13,
+        "productName" : "Sweet Banana",
+        "productImg" : "img/banana2.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Banana",
+        "review":"3.5⭐ | 34"
+    },
+    {
+        "id" : 14,
+        "productName" : "Fresh Papaya",
+        "productImg" : "img/papaya1.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Papaya",
+        "review":"4.5⭐ | 34"
+    },
+    {
+        "id" : 15,
+        "productName" : "Kasmiri Apple",
+        "productImg" : "img/apple2.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Apple",
+        "review":"5.0⭐ | 34"
+    },
+    {
+        "id" : 16,
+        "productName" : "Fresh Grapes",
+        "productImg" : "img/grapes3.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Grapes",
+        "review":"3.5⭐ | 34"
+    },
+    {
+        "id" : 17,
+        "productName" : "Sweet Guava",
+        "productImg" : "img/guava3.webp",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Guava",
+        "review":"4⭐ | 34"
+    },
+    {
+        "id" : 18,
+        "productName" : "Fresh Licth",
+        "productImg" : "img/litchi2.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Litchi",
+        "review":"4.5⭐ | 34"
+    },
+    {
+        "id" : 19,
+        "productName" : "Dudai Date",
+        "productImg" : "img/date4.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Date",
+        "review":"5⭐ | 34"
+    },
+    {
+        "id" : 20,
+        "productName" : "Yello Orange",
+        "productImg" : "img/orange4.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Orange",
+        "review":"4⭐ | 34"
+    },
+    {
+        "id" : 21,
+        "productName" : "Apple fresh",
+        "productImg" : "img/apple1.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Apple",
+        "review":"3.5⭐ | 34"
+    },
+    {
+        "id" : 22,
+        "productName" : "Sweet Banana",
+        "productImg" : "img/banana.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Banana",
+        "review":"2.5⭐ | 34"
+    },
+    {
+        "id" : 23,
+        "productName" : "Apple fresh",
+        "productImg" : "img/apple3.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Apple",
+        "review":"5⭐ | 34"
+    },
+    {
+        "id" : 24,
+        "productName" : "Sweet Banana",
+        "productImg" : "img/banana2.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Banana",
+        "review":"4.5⭐ | 34"
+    },
+    {
+        "id" : 25,
+        "productName" : "Fresh Papaya",
+        "productImg" : "img/papaya2.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Papaya",
+        "review":"4⭐ | 34"
+    },
+    {
+        "id" : 26,
+        "productName" : "Yello Orange",
+        "productImg" : "img/orange5.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Orange",
+        "review":"5.0⭐ | 34"
+    },
+    {
+        "id" : 27,
+        "productName" : "Fresh Grapes",
+        "productImg" : "img/grapes4.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Grapes",
+        "review":"3.5⭐ | 34"
+    },
+    {
+        "id" : 28,
+        "productName" : "Sweet Guava",
+        "productImg" : "img/guava.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Guava",
+        "review":"3.0⭐ | 34"
+    },
+    {
+        "id" : 29,
+        "productName" : "Fresh Licth",
+        "productImg" : "img/litchi1.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Litchi",
+        "review":"5.0⭐ | 34"
+    },
+    {
+        "id" : 30,
+        "productName" : "Dudai Date",
+        "productImg" : "img/date3.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Date",
+        "review":"3.7⭐ | 34"
+    },
+    {
+        "id" : 31,
+        "productName" : "Yello Orange",
+        "productImg" : "img/orange5.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Orange",
+        "review":"4.7⭐ | 34"
+    },
+    {
+        "id" : 32,
+        "productName" : "Apple fresh",
+        "productImg" : "img/apple1.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Apple",
+        "review":"3.9⭐ | 34"
+    },
+    {
+        "id" : 33,
+        "productName" : "Papaya fresh",
+        "productImg" : "img/papaya.webp",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Papaya",
+        "review":"4.0⭐ | 34"
+    },
+    {
+        "id" : 34,
+        "productName" : "Sweet Banana",
+        "productImg" : "img/banana.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Banana",
+        "review":"4.2⭐ | 34"
+    },
+   
+    {
+        "id" : 35,
+        "productName" : "Sweet Date",
+        "productImg" : "img/date4.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Date",
+        "review":"5.0⭐ | 34"
+    },
+   
+    {
+        "id" : 36,
+        "productName" : "Papaya Sweet",
+        "productImg" : "img/papaya2.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Papaya",
+        "review":"4.5⭐ | 34"
+    },
+    {
+        "id" : 37,
+        "productName" : "Testy Date",
+        "productImg" : "img/date1.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Date",
+        "review":"4.0⭐ | 34"
+    },
+    {
+        "id" : 38,
+        "productName" : "Testy Litchi",
+        "productImg" : "img/litchi1.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Litchi",
+        "review":"4.5⭐ | 34"
+    },   
+    {
+        "id" : 39,
+        "productName" : "Testy Grapes",
+        "productImg" : "img/grapes3.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Grapes",
+        "review":"4.2⭐ | 34"
+    },
+    {
+        "id" : 40,
+        "productName" : "Testy Litchi",
+        "productImg" : "img/litchi2.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Litchi",
+        "review":"3.9⭐ | 34"
+    },   
+    {
+        "id" : 41,
+        "productName" : "Testy Guava",
+        "productImg" : "img/guava.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Guava",
+        "review":"4.2⭐ | 34"
+    },
+    {
+        "id" : 42,
+        "productName" : "Testy Date",
+        "productImg" : "img/date1.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Date",
+        "review":"4.1⭐ | 34"
+    },
+    {
+        "id" : 43,
+        "productName" : "Testy Litchi",
+        "productImg" : "img/litchi1.png",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Litchi",
+        "review":"4.4⭐ | 34"
+    },   
+    {
+        "id" : 44,
+        "productName" : "Testy Guava",
+        "productImg" : "img/guava3.webp",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Guava",
+        "review":"4.8⭐ | 34"
+    },
+    {
+        "id" : 55,
+        "productName" : "Testy Litchi",
+        "productImg" : "img/litchi2.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Litchi",
+        "review":"3.9⭐ | 34"
+    },   
+    {
+        "id" : 46,
+        "productName" : "Testy Grapes",
+        "productImg" : "img/grapes2.jpg",
+        "productPrice" : 345,
+        "Benifits": "Dilicius And Sweets",
+        "category" : "Grapes",
+        "review":"5.0⭐ | 34"
+    }
+   
+]

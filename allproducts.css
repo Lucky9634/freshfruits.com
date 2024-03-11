@@ -1,0 +1,54 @@
+
+.itemAllProduct {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin: 2rem auto;
+    align-items: center;
+}
+.itemApple,
+.itemBanana,
+.itemOrange, 
+.itemGrapes, 
+.itemLitchi, 
+.itemGuava, 
+.itemPapaya, 
+.itemDate{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin: 2rem auto;
+    align-items: center;
+}
+.buyBtn{
+    border: none;
+    display: flex;
+    gap: 1rem;
+}
+.buyBtn button{
+    padding: 0.6rem 1rem;
+    border: none;
+    background-color: rgb(85, 241, 85);
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 0.4rem;
+}
+.buyBtn button:hover{
+    transition: 0.4s;
+    background-color: red;
+    color: wheat;
+}
+.buyBtn .second:hover{
+    transition: 0.4s;
+    background-color: yellow;
+    color: red;
+}
+
+@media only screen and (max-width: 650px) {
+    .buyBtn button{
+        font-size: 7px;
+    }
+    
+}
